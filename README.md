@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## My name is Brian KJ Kim, a Software Developer from Canada.
+
+- 🔭 I’m currently working on improving my web development skills and building personal portfolio.
+- 🌱 I’m currently learning Computational Algorithms, Full-stack Web Development, JavaScript/TypeScript, Python, Databases, and many more.
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/brian-kj-kim/
+- ⚡ Fun fact: One of only certain historical accounts of Socrates is the fact that he was very ugly.
+
 <!--
 **briankjkim/briankjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
