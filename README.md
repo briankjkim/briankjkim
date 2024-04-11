@@ -25,23 +25,17 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Djan
 
 ## Featured Projects 💻
 
-### ODEN - Open Data Developer Network -- [https://terratap-oden-client-v2.web.app/]
+### ODEN - Open Data Developer Network -- [[project_1_link](https://terratap-oden-client-v2.web.app/)]
 
-![Project 1 Screenshot]![mssql](https://github.com/briankjkim/briankjkim/assets/97319869/8ddf7239-8422-4dec-8765-64b8fedcb054)
+![Project 1 Screenshot]![oden](https://github.com/briankjkim/briankjkim/assets/97319869/df3e891c-fdfb-414b-8cc8-a1691d98926e)
 
 **ODEN** is a **web platform storing and displaying open city data** built with **React and GCP(Google Cloud Platform)**.
 GitHub Link: https://github.com/OpendataDeveloperNetwork/ODEN-Admin
 
-### [Project 2 Title](project_2_link)
+### Database.io ([project_2_link](https://mczpuqkvbx.us18.qoddiapp.com/))
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot]![databaseio](https://github.com/briankjkim/briankjkim/assets/97319869/edd741a4-ba39-4e7b-a868-d0404c0fbabb)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
+**Database.io** is a **a web datastore** built with **JavaScript, EJS, HTML, CSS, MySQL**.
+GitHub Link: https://github.com/briankjkim/database.io
 
