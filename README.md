@@ -27,7 +27,7 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Djan
 
 ### ODEN - Open Data Developer Network -- [https://terratap-oden-client-v2.web.app/]
 
-![Project 1 Screenshot]([image](https://github.com/briankjkim/briankjkim/assets/97319869/e7f5b7b3-f2a1-48dc-9fbd-2e5839f7b16e))
+![Project 1 Screenshot]![mssql](https://github.com/briankjkim/briankjkim/assets/97319869/8ddf7239-8422-4dec-8765-64b8fedcb054)
 
 **ODEN** is a **web platform storing and displaying open city data** built with **React and GCP(Google Cloud Platform)**.
 GitHub Link: https://github.com/OpendataDeveloperNetwork/ODEN-Admin
