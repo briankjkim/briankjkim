@@ -38,7 +38,3 @@ GitHub Link: https://github.com/OpendataDeveloperNetwork/ODEN-Admin
 **Database.io** is a **a web datastore** built with **JavaScript, EJS, HTML, CSS, MySQL**.
 GitHub Link: https://github.com/briankjkim/database.io
 
-
-## GitHub Stats
-
-[![Brian KJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=briankjkim)](https://github.com/anuraghazra/github-readme-stats)
