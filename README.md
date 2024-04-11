@@ -19,22 +19,25 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Djan
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
 ## Featured Projects 💻
 
-### ODEN - Open Data Developer Network -- [project_1_link](https://terratap-oden-client-v2.web.app/)
+### ODEN - Open Data Developer Network 
+[project_1_link](https://terratap-oden-client-v2.web.app/)
 
 ![oden](https://github.com/briankjkim/briankjkim/assets/97319869/df3e891c-fdfb-414b-8cc8-a1691d98926e)
 
 **ODEN** is a **web platform storing and displaying open city data** built with **React and GCP(Google Cloud Platform)**.
-GitHub Link: https://github.com/OpendataDeveloperNetwork/ODEN-Admin
 
-### Database.io [project_2_link](https://mczpuqkvbx.us18.qoddiapp.com/)
+
+### Database.io 
+[project_2_link](https://mczpuqkvbx.us18.qoddiapp.com/)
 
 ![databaseio](https://github.com/briankjkim/briankjkim/assets/97319869/edd741a4-ba39-4e7b-a868-d0404c0fbabb)
 
 **Database.io** is a **a web datastore** built with **JavaScript, EJS, HTML, CSS, MySQL**.
-GitHub Link: https://github.com/briankjkim/database.io
+
 
