@@ -34,17 +34,19 @@ Open Data Development Network (ODEN) is an open-source initiative aimed at strea
 
 
 ### Tes.ai-GPT
-![tes.ai](https://github.com/briankjkim/briankjkim/assets/97319869/7b70c5fd-c0b6-4b06-87c0-ba9b41f34859)
-
 [Tes.ai](https://mern-ai-chatbot-client.vercel.app/)
+
+![tes.ai](https://github.com/briankjkim/briankjkim/assets/97319869/7b70c5fd-c0b6-4b06-87c0-ba9b41f34859)
 
 
 Tes.ai is a web application that provides ChatGPT-like conversations between the user and the application’s AI engine, where the AI engine aims to mimic the characteristics of Ancient Greek Philosophers, such as Socrates. Built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack.
 
 
 ### Summarize AI -- Youtube Video Summarizer
+[SummarizeAI](https://youtube-ai-summarizer.vercel.app/)
+
 ![summaryAI1](https://github.com/briankjkim/briankjkim/assets/97319869/9f2b8d91-dadd-4154-9f84-b82470492343)
 ![summaryAI2](https://github.com/briankjkim/briankjkim/assets/97319869/2be16266-372a-4d14-b32c-c48e050a0c8f)
 
-[SummarizeAI](https://youtube-ai-summarizer.vercel.app/)
+
 Summarize AI is a web application that summarizes Youtube videos by processing the video with OpenAI GPT-4-Turbo engine. Built with NextJs, Strapi, ShadCN UI, and OpenAI API.
