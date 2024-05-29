@@ -3,13 +3,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Developer** with experience in **React, NextJS, Django, Flask**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **React, NextJS, Django, Strapi**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **NextJS, PyGame**
+- 🌱 My specialties are: **NextJS, OpenAI API, Strapi, React, NodeJS, ExpressJS, PostgreSQL**
 - 🔭 Working on: **CityNav Vancouver -- Toilet Finder**
 - 🌍 Languages: **JavaScript/TypeScript, Python, Java, C++, C#, SQL**
-- 🗃️ Databases: **MySQL, MongoDB, Firestore Database (GCP), Microsoft Server SQL, PostgreSQL, Prisma**
-- 📫 How to reach me: **https://www.linkedin.com/in/brian-kj-kim/**
+- 🗃️ Databases: **MySQL, PostgreSQL, MongoDB, Firestore Database (GCP), Redis**
+- 📫 How to reach me: **https://www.linkedin.com/in/brian-kj-kim/**, or send email at **kkjin0330@gmail.com**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
 
 ## My Skills 🧠
@@ -30,14 +30,20 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Djan
 
 ![oden](https://github.com/briankjkim/briankjkim/assets/97319869/df3e891c-fdfb-414b-8cc8-a1691d98926e)
 
-**ODEN** is a **web platform storing and displaying open city data** built with **React and GCP(Google Cloud Platform)**.
+Open Data Development Network (ODEN) is an open-source initiative aimed at streamlining developers' access to open data by consolidating scattered datasets from various cities into a centralized platform. Built with React, MongoDB, and Google Cloud Platform.
 
 
-### Database.io 
-[project_2_link](https://mczpuqkvbx.us18.qoddiapp.com/)
+### Tes.ai-GPT
+![tes.ai](https://github.com/briankjkim/briankjkim/assets/97319869/7b70c5fd-c0b6-4b06-87c0-ba9b41f34859)
 
-![databaseio](https://github.com/briankjkim/briankjkim/assets/97319869/edd741a4-ba39-4e7b-a868-d0404c0fbabb)
-
-**Database.io** is a **a web datastore** built with **JavaScript, EJS, HTML, CSS, MySQL**.
+[project_2_link](https://mern-ai-chatbot-client.vercel.app/)
 
 
+Tes.ai is a web application that provides ChatGPT-like conversations between the user and the application’s AI engine, where the AI engine aims to mimic the characteristics of Ancient Greek Philosophers, such as Socrates. Built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack.
+
+
+### Summarize AI -- Youtube Video Summarizer
+![summaryAI1](https://github.com/briankjkim/briankjkim/assets/97319869/9f2b8d91-dadd-4154-9f84-b82470492343)
+![summaryAI2](https://github.com/briankjkim/briankjkim/assets/97319869/2be16266-372a-4d14-b32c-c48e050a0c8f)
+
+Summarize AI is a web application that summarizes Youtube videos by processing the video with OpenAI GPT-4-Turbo engine. Built with NextJs, Strapi, ShadCN UI, and OpenAI API.
