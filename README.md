@@ -1,13 +1,14 @@
 # Hi there, I'm Brian KJ Kim! ☺️👋
-
+[Personal Website](https://svelte-portfolio-website.vercel.app/)
 
 ## About Me 🚀
 
-I'm a passionate **Software Developer** with experience in **React, NextJS, Django, Strapi**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **React, NextJS, Node.js + Express.js, Django, and Strapi**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 My specialties are: **NextJS, OpenAI API, Strapi, React, NodeJS, ExpressJS, PostgreSQL**
-- 🔭 Working on: **CityNav Vancouver -- Toilet Finder**
-- 🌍 Languages: **JavaScript/TypeScript, Python, Java, C++, C#, SQL**
+- 🔭 Working on: **Summarize AI**, **Tes.ai**
+- 🌍 Languages: **JavaScript/TypeScript, Python, Java, C#, SQL**
+- 🔨 Frameworks: **React, Svelte, Angular, Node.JS, Express.JS, Next.JS, Flask, FastAPI, Google Firebase, AWS**
 - 🗃️ Databases: **MySQL, PostgreSQL, MongoDB, Firestore Database (GCP), Redis**
 - 📫 How to reach me: **https://www.linkedin.com/in/brian-kj-kim/**, or send email at **kkjin0330@gmail.com**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
@@ -24,6 +25,13 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Djan
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
 ## Featured Projects 💻
+
+### Portfolio Website in Svelte
+[Portfolio](https://svelte-portfolio-website.vercel.app/)
+
+![landing](https://github.com/briankjkim/briankjkim/assets/97319869/3b452101-bce4-4ab3-a4bb-f85d9d1e05da)
+
+A portfolio website built with Svelte, highlighting my software development experiences and projects.
 
 ### ODEN - Open Data Developer Network 
 [oden](https://terratap-oden-client-v2.web.app/)
