@@ -13,7 +13,7 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Node
 - 📫 How to reach me: **https://www.linkedin.com/in/brian-kj-kim/**, or send email at **kkjin0330@gmail.com**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
 - 🖥️ My Favorite YouTube Channels for Learning How To Code:
-- 1) [Fireship](https://www.youtube.com/@Fireship)
+  1) [Fireship](https://www.youtube.com/@Fireship)
   2) [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
   3) [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
   4) [ByteGrad](https://www.youtube.com/@ByteGrad)
