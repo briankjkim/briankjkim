@@ -12,6 +12,14 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Node
 - 🗃️ Databases: **MySQL, PostgreSQL, MongoDB, Firestore Database (GCP), Redis**
 - 📫 How to reach me: **https://www.linkedin.com/in/brian-kj-kim/**, or send email at **kkjin0330@gmail.com**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
+- 🖥️ My Favorite YouTube Channels for Learning How To Code:
+- 1) [Fireship](https://www.youtube.com/@Fireship)
+  2) [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)
+  3) [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+  4) [ByteGrad](https://www.youtube.com/@ByteGrad)
+  5) [Awesome](https://www.youtube.com/@awesome-coding)
+  6) [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+  7) [Coding After Thirty](https://www.youtube.com/@CodingAfterThirty)
 
 ## My Skills 🧠
 
