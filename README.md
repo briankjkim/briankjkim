@@ -1,4 +1,4 @@
-# Hi there, I'm Brian KJ Kim! ☺️👋
+# Hi there, I'm Brian! ☺️👋
 [Personal Website](https://svelte-portfolio-website.vercel.app/)
 
 ## About Me 🚀
