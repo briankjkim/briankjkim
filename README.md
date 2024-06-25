@@ -10,12 +10,9 @@ I still like coding, so that's nice. ☺️
 
 Let's be kind and build an awesome app together 🌠
 
-- 🌱 My specialties are: **React, Svelte && Next.js, Node.js + Express.js && TailwindCSS + ShadCN UI/Material UI && PostgreSQL, Firebase, MongoDB && OpenAI | OctoAI**
+- 🌱 My current favourite tech stacks are: **React, SvelteKit, Next.js, TailwindCSS, PostgreSQL, Firebase, MongoDB, OpenAI, OctoAI**
 - 🔭 Working on: **office-ai**: an AI-powered web application with various office-related AI tools, such as text summarization and redaction
-- 🌍 Languages: **JavaScript/TypeScript, Python, Java**, and more
-- 🔨 Frameworks: **React, SvelteKit, Next.JS, Flask, FastAPI**
-- 🗃️ Databases: **MySQL, PostgreSQL, MongoDB, Firestore, Supabase, Redis, Notion API**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, **kynd.b.tech@gmail.com**, or **https://x.com/kynd_b**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, **kynd.b.tech@gmail.com**, or **[@kynd_b](https://x.com/kynd_b)**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
 - 🖥️ My Favorite YouTube Channels for Learning How To Code:
     1) [Fireship](https://www.youtube.com/@Fireship)
