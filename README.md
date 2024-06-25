@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** with experience in **React, NextJS, Node
 - 🌍 Languages: **JavaScript/TypeScript, Python, Java, C#, SQL**
 - 🔨 Frameworks: **React, Svelte, Angular, Node.JS, Express.JS, Next.JS, Flask, FastAPI, Google Firebase, AWS**
 - 🗃️ Databases: **MySQL, PostgreSQL, MongoDB, Firestore Database (GCP), Redis**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, or send email at **kynd.b.tech @ gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, **kynd.b.tech@gmail.com**, or **https://x.com/kynd_b**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
 - 🖥️ My Favorite YouTube Channels for Learning How To Code:
   1) [Fireship](https://www.youtube.com/@Fireship)
