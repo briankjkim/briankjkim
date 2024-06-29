@@ -3,14 +3,14 @@
 
 ## About Me 🚀
 
-CST | Philosophy | Canada | Software Engineering | 🇨🇦  🇰🇷  
+CST | Philosophy | Software Engineering | 🇨🇦  🇰🇷  
 
-I'm an exploring **Software Developer** with curiosity and passion for knowledge and problem-solving.
+I'm a growing **Software Developer** with curiosity and passion for knowledge and problem-solving.
 
 Let's be kind and build an awesome project together 🌠
 
-- 🌱 My current favourite tech stacks are: **React, SvelteKit, Next.js, TailwindCSS, PostgreSQL, Firebase, MongoDB, OpenAI, OctoAI**
-- 🔭 Working on: **kynd_b.connects**: a personal blog of my journey as a SWE, built with SvelteKit
+- 🌱 My current favourite tech stacks are: **React + Next.js, Svelte + SvelteKit, TailwindCSS, PostgreSQL, MongoDB, Vercel**
+- 🔭 Working on: **kynd_b.blogs**: a personal blog of my journey as a SWE, built with SvelteKit
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, **kynd.b.tech@gmail.com**, or **[@kynd_b](https://x.com/kynd_b)**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
 - 🖥️ My Favorite YouTube Channels for Learning How To Code:
