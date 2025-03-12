@@ -1,0 +1,29 @@
+name: Update Date File
+
+on:
+  schedule:
+    # This runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Optional: Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Update date file
+        run: |
+          echo "$(date +'%Y-%m-%d')" > date.txt
+          # If your file is not in the root directory, specify the path: path/to/your/date.txt
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add date.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update date to $(date +'%Y-%m-%d')"
+          git push
