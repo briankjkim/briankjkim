@@ -9,7 +9,8 @@ I'm a growing **Software Developer** with curiosity and passion for knowledge an
 
 Let's be kind and build an awesome project together 🌠
 
-- 🌱 My current favourite tech stacks are: **React + Next.js, Svelte + SvelteKit, TailwindCSS, PostgreSQL, MongoDB, Vercel, Firebase**
+- 🌱 My current favourite tech stacks are: *Next.js, TailwindCSS, ShadCN UI, Supabase, Vercel**
+- 👨‍💻 Programming Language I'm Exploring at the Moment: Erlang + Elixir
 - 🔭 Working on: **kynd_b.blogs**: a personal blog of my journey as a SWE, built with SvelteKit
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/brian-kj-kim/)**, **kynd.b.tech@gmail.com**, or **[@kynd_b](https://x.com/kynd_b)**
 - ⚡ Fun fact: **I pronounce Gif as Gif**
